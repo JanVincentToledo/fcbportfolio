@@ -1,0 +1,46 @@
+Free Online Bootcamp Training
+
+(Git Bash)
+
+pwd = present working directory
+cd = current directory
+ls = list files
+mkdir = make directory
+cd + filename = go to directory
+cd ~ = reset default directory
+cd .. = step back from directory
+touch index.html = create a file to a directory
+
+(Sublime)
+
+type html and press tab twice to load a html template
+
+right click and open in browser to run the code
+
+meta tags are important for responsiveness
+
+ctrl + forward slash will make a comment in sublime
+
+ctrl + shift + d = instant copy paste
+
+ctrl + shift + v = formatted copy paste
+
+
+(Chrome)
+
+right click and inspect and click the upper left side of the inspect window
+
+(CSS)
+
+SYNTAX: 
+	selector{
+	
+		property: value;
+
+		}
+
+# = selector of id
+
+vh = viewport height
+
+display:flex; = allows us to align elements horizontally and vertically
